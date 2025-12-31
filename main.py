@@ -3,7 +3,7 @@ import numpy as np
 import face_recognition
 import os
 
-path = 'known_faces'
+path = 'registered_faces'
 images = []
 classNames = []
 
