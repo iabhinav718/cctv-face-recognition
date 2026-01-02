@@ -135,10 +135,11 @@ python main.py
 
 ## Author
 
+
+
+
+
 **Abhinav S**
 BCA Student – Artificial Intelligence, Machine Learning & Robotics
 Yenepoya University, Bangalore
 
-GitHub: [https://github.com/iabhinav718](https://github.com/iabhinav718)
-
-Just tell me what you want next.
