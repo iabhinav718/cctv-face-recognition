@@ -11,7 +11,7 @@ The main objective of this project is to design a **real-time surveillance-based
 
 * Identify known individuals using facial features
 * Detect and label unknown individuals
-* Store unidentified faces automatically for security review
+* Store unidentified faces automatically for security review 
 * Operate efficiently on live video streams    
 
 This project demonstrates practical applications of **Computer Vision and Machine Learning** in surveillance systems.
