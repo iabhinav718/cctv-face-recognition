@@ -1,7 +1,7 @@
 # CCTV Face Recognition System      
   
 A real-time **CCTV face recognition system** built using **Python**, **OpenCV**, and the **face_recognition** library.
-The system detects faces from a live camera feed, identifies known individuals, and automatically captures images of unidentified persons for further analysis.
+The system detects faces from a live camera feed, identifies known individuals, and automatically captures images of unidentified persons for further analysis    
 
 ---
 
